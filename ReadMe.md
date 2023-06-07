@@ -11,6 +11,10 @@ g++ main.cpp CSVParser.cpp -o csvparser
 ./csvparser
 ```
 
+# Todo
+
+- Refactor the parser class to gracefully handle read errors
+
 # Sample dataset Source
 
 https://www.kaggle.com/datasets/uciml/horse-colic
